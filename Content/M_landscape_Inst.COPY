@@ -1,0 +1,18 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="M_landscape_Inst"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_1"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_1"
+   End Object
+   Parent=Material'"/Game/Material/Master_Material/M_landscape.M_landscape"'
+   ScalarParameterValues(0)=(ParameterName="Dirt Scale",ParameterInfo=(Name="Dirt Scale"),ParameterValue=0.149719,ExpressionGUID=BBE53DDE4AF47EE5D3B90CB9FDAF6F63)
+   ScalarParameterValues(1)=(ParameterName="Grass Scale",ParameterInfo=(Name="Grass Scale"),ParameterValue=1.792691,ExpressionGUID=1EC755AE4440B5AE60BE51A4AAA5586F)
+   ScalarParameterValues(2)=(ParameterName="RefractionDepthBias",ParameterInfo=(Name="RefractionDepthBias"))
+   ReferencedTextureGuids(0)=B21044F94A6C5D320C032491CAF7EE15
+   ReferencedTextureGuids(1)=1D1B7EF546C5E5FE3114D8BA583E34F8
+   ReferencedTextureGuids(2)=B1B48DC346A48B839A728CBBA9158683
+   ReferencedTextureGuids(3)=0C068365468906DC61E61398C2297CBA
+   ReferencedTextureGuids(4)=3FC1F94C4A007C5C036798BDB38A85C3
+   ReferencedTextureGuids(5)=1B3C3A904B87CC36738EF49DAA443C17
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_1"'
+   LightingGuid=FF2C1FC542B5A1D043ACEBBB75546758
+End Object
