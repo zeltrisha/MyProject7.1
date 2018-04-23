@@ -2541,3 +2541,14 @@ LogInit: Object subsystem initialized
 [2018.04.23-00.21.57:460][ 72]SourceControl:  create mode 100644 Content/StarterContent/vegetation_pack/Textures/tex_snow_mask4.uasset
 [2018.04.23-00.21.57:460][ 72]SourceControl:  create mode 100644 Content/StarterContent/vegetation_pack/Textures/tex_variation_diff.uasset
 [2018.04.23-00.21.57:463][ 72]SourceControl: Commited [master f1177f3] vegetation.
+[2018.04.23-00.23.46:958][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-00.24.00:734][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-00.24.27:601][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-00.24.27:764][853]LogSavePackage: Save=14.06ms
+[2018.04.23-00.24.27:764][853]LogSavePackage: Moving 'C:/Users/zeltr/OneDrive/Документы/Unreal Projects/MyProject7/Saved/SM_bush6B8DB0724420A170F0C0F17984589C02F.tmp' to 'C:/Users/zeltr/OneDrive/Документы/Unreal Projects/MyProject7/Content/StarterContent/vegetation_pack/Meshes/Bush/SM_bush6.uasset'
+[2018.04.23-00.24.27:766][853]LogSavePackage: Display: Finished SavePackage C:/Users/zeltr/OneDrive/Документы/Unreal Projects/MyProject7/Content/StarterContent/vegetation_pack/Meshes/Bush/SM_bush6.uasset
+[2018.04.23-00.24.29:389][953]LogSlate: Window 'SM_bush6' being destroyed
+[2018.04.23-00.24.29:391][953]LogSlate: Window 'SM_bush6' being destroyed
+[2018.04.23-00.27.29:159][793]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.23-00.27.57:564][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-00.29.46:774][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
