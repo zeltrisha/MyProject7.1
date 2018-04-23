@@ -2552,3 +2552,4 @@ LogInit: Object subsystem initialized
 [2018.04.23-00.27.29:159][793]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2018.04.23-00.27.57:564][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.04.23-00.29.46:774][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-00.42.29:571][990]LogSlate: FSceneViewport::OnFocusLost() reason 2
